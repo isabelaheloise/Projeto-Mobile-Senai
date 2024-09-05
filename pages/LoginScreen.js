@@ -29,7 +29,7 @@ export default function LoginScreen({ navigation }) {
 				</View>
 
 				<TouchableOpacity style={styles.button} onPress={handleLogin}>
-					<Text style={styles.textButton}>Entrar</Text>
+					<Text style={styles.textButton}>Logar</Text>
 				</TouchableOpacity>
 				
 			</View>
